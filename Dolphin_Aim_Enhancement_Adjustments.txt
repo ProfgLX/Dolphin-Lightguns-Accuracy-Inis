@@ -15,6 +15,8 @@ Open the Dolphin emulator. I made all the adjustments on the latest beta release
 The particular folder we are interested in is Dolphin - Sinden/User/Config/Profiles/Wiimote/
 This is where your game ini files for each game are located. If you have already applied the Aim Enhancements then you should have ini files 	for the games that we have made adjustments for. If you haven't applied the pack, follow the directions and put all the ini files here now.
 
+2.5 Before getting into the juicy fine-tuning, there's a few games that need another adjustment beforehand. In Wii games that seem to not let your crosshair get to one (or more) of the sides of the screen, you have to go into Dolphin Controller Settings, Emulated Wii Remote, there to the Motion Simulation tab, and here increase Total Yaw if you need more room left and/or right and Total Pitch if you need more room on the top or bottom of the screen.
+
 3. Making Fine-tune Adjustments in Dolphin
 Open the ini file for the game that you would like to fine-tune the aiming. For instance, BBHPRO_P1.ini. You should see this...
 
