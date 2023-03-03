@@ -1,0 +1,36 @@
+Missing from original pack (PiperCalls)
+CABELASMBH_P1.ini
+CONDUIT2_P1.ini
+CONDUIT_P1.ini
+DDLegends_P1.ini
+DINOHunter_P1.ini
+ECOShooter_P1.ini
+HFA_P1.ini
+JURASSIC_P1.ini
+ZOMBIEPANIC_P1.ini
+
+Missing from Ego_bizarro's pack
+BIGTOWN_P1
+CABELASHunts2013_P1
+CARNIVALKING_P1
+DINOSTRIKE_P1
+MedalOfHonorHeroes2_P1
+Metroid-Prime-with-Mouse+Keyboard
+NERF_NstrikeDoubleBlastBundle_P1
+PIRATEBLAST_P1
+RaymanRavingRabbids_P1
+RaymanRavingRabbids_TV_P1
+RaymanRavingRabbids2_P1
+REDSTEEL_P1
+SHOOTANDO_P1
+Sinden Gun
+SinPunishment_P1
+SNIPERELITE_P1
+SOLVALOU_P1
+STARBLADE_P1
+TopShotDinosaurHunter_P1
+TOYSTORYMania_P1
+Transformers_P1
+Wii Remote with MotionPlus Pointing
+
+If you tweak IR/Vertical Offset, IR/Total Yaw, and IR/Total Pitch values for those games and want them added to this pack, please contact me on Twitter @Prof_gLX, on the sinden lightgun discord or the gun4ir discord.
