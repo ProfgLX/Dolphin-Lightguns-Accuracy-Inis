@@ -11,8 +11,8 @@ This pack is mostly for "Rail" type shooters that do not require any character m
 The aim/crosshair has been dialed in on all these games. All aiming is pretty close to perfect and should not have to be adjusted by the user.
 
 To install the accuracy inis, follow these steps:
-1. Copy the "Config" folder into the User folder of your Dolphin portable install.
-2. Copy the "GameSettings" into the User folder of your Dolphin portable install.
+1. Copy the "Config" folder from "Accuracy and control mappings" into the User folder of your Dolphin portable install.
+2. Copy the "GameSettings" from "Accuracy and control mappings" into the User folder of your Dolphin portable install.
 3. This might overwrite previously saved settings if you already had "per-game" settings.
 
 You can change button assignements by loading the profiles in the Dolphin controls editor. Do not change anything else.
@@ -59,7 +59,7 @@ You can change button assignements by loading the profiles in the Dolphin contro
 # Dolphin crosshair removal (By PiperCalls) (crosshairs are for wimps!)
 
 To remove crosshairs from the games:
-1. Copy the "Load" folder into the User folder of your Dolphin portable install.
+1. Copy the "Load" folder from "Crosshair removal" into the User folder of your Dolphin portable install.
 2. In Dolphin, click on Graphics, click on the Advanced Tab & under the Utility field select Load Custom Textures box.
 
 The Crosshairs are completely removed in most of the games, there are a few games that I haven't been able to track down all the Crosshair textures. Once I get these tracked down I'll include them in future releases. If anyone wants to help track these down, please share.
