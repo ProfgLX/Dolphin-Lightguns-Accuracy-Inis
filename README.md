@@ -1,5 +1,5 @@
 # Dolphin Lightguns Accuracy Inis (Updated method 2023)
-This release was made by by Prof_gLX, PiperCalls, Ego_bizarro and Tovaritchtch.  
+This release was made by by Prof_gLX, PiperCalls, Ego_bizarro and Tovarichtch.  
 Collection of inis to get 1:1 (close) aim accuracy with the Sinden Lightgun and Gun4IR in the Dolphin emulator.  
 Also included are files to remove crosshairs from games by PiperCalls.  
 **USA versions of Wii games are required.**
