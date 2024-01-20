@@ -1,5 +1,5 @@
 # Dolphin Lightguns Joystick mode Inis (New method)
-This release was made by Prof_gLX
+This release was made by Prof_gLX.
 It's based on the Dolphin Lightgun Accuracy work by Prof_gLX, PiperCalls, Ego_bizarro and Tovarichtch.  
 
 I can often be found on the Sinden discord and the Gun4IR discord. I do not provide help in DMs. All DMs asking for help will be ignored.
