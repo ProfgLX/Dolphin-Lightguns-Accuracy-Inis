@@ -54,6 +54,7 @@ You can change button assignements by loading the profiles in the Dolphin contro
 * Wii Play
 * Wild West Guns
 * Wild West Shootout
+* Brain Cadets / Drill Sergeant Mindstron (Thank you Bratwurstmensch) (Added 2025-10-21)
 
 
 # Dolphin crosshair removal (By PiperCalls) (crosshairs are for wimps!)
